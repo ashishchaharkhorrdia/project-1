@@ -9,7 +9,8 @@ body{
 ul{
     position: relative;
     
-    float: right;
+    
+    float: center;
     transform: rotate(-35deg) skew(20deg,5deg);
 }
 .list-item{
@@ -77,3 +78,4 @@ ul{
     transform: skewY(-45deg);
 
 }
+
