@@ -1,11 +1,11 @@
-/* body{
+body{
     background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     overflow: hidden;
-} */
+}
 ul{
     position: relative;
     
@@ -75,4 +75,5 @@ ul{
     top:0.25em;
     left:-0.5em;
     transform: skewY(-45deg);
+
 }
